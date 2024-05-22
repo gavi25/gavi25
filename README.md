@@ -1,16 +1,20 @@
-## Hi there 👋
+# HELLO EVERYONE !!! , I'm Gavin Aranha <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc_eDcFilZAtxEzj396BoxI1rk4gc3HeOHj2cWjuIGvQ&s" width="40px" /> <img align="center" />
 
-<!--
-**gavi25/gavi25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaCkD9MkhFvX81GtrcXxumiMp4zcGZaDoigA&s" width="40 px" align="center"> Masters in Big Data Analysis from St. Xavier's College <img src="https://xaviers.ac/____impro/1/onewebmedia/Crest.png?etag=%229b3e-627c9008%22&sourceContentType=image%2Fpng&quality=85" width="35px" align="center" />  
+## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaCkD9MkhFvX81GtrcXxumiMp4zcGZaDoigA&s" width="40 px" align="center">  BSc in Information Technology from St. Xavier's College <img src="https://xaviers.ac/____impro/1/onewebmedia/Crest.png?etag=%229b3e-627c9008%22&sourceContentType=image%2Fpng&quality=85" width="35px" align="center" />
 
-Here are some ideas to get you started:
+<ul>
+  <li>🔍 Passionate about leveraging data to derive actionable insights.</li>
+  <li>💻 Proficient in Python for data analysis and machine learning.</li>
+  <li>📊 Experienced in SQL for database management and querying.</li>
+  <li>📈 Skilled in data visualization tools such as PowerBI and Tableau.</li>
+  <li>🍃 Familiar with NoSQL databases like MongoDB.</li>
+  <li>🚀 Currently honing skills in Azure Databricks for big data processing.</li>
+  <li>📚 Committed to continuous learning and staying updated with industry trends.</li>
+  <li>🔬 Strong analytical and problem-solving skills with a detail-oriented approach.</li>
+  <li>💬 Effective communicator with a collaborative mindset for team projects.</li>
+  <li>🌟 Eager to apply expertise in real-world projects to make meaningful impacts.</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
