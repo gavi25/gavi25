@@ -22,14 +22,44 @@
 ### [Languages]<img align=center src="https://img.icons8.com/?size=100&id=T85lIO7RrTb7&format=png&color=000000">
 
 ![Python](https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000) &nbsp;
-![SQL](https://img.icons8.com/?size=100&id=ywH6EJgZ7sm5&format=png&color=000000) &nbsp;
+![SQL](https://img.icons8.com/?size=100&id=UFF3hmipmJ2V&format=png&color=000000) &nbsp;
 ![R](https://img.icons8.com/?size=100&id=qYOYmgF9E4iO&format=png&color=000000) &nbsp;
 ![C++](https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000) &nbsp;
 
 
 ### Tools & Frameworks <img align="center" src="https://img.icons8.com/?size=100&id=43630&format=png&color=000000">
 
-![MongoDB](https://img.icons8.com/?size=100&id=74402&format=png&color=000000) &nbsp;
+![Colab](https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000) &nbsp;
+![Jupyter](https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000) &nbsp;
+![Numpy](https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000) &nbsp;
+![Pandas](https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000) &nbsp;
 ![Hadoop](https://img.icons8.com/?size=100&id=69132&format=png&color=000000) &nbsp;
-![Spark](https://th.bing.com/th/id/OIP.AIGS5qwtMTy80gBvrTSSoQHaHa?w=184&h=184&c=7&r=0&o=5&pid=1.7) &nbsp;
-![Azure Databricks](https://logowik.com/content/uploads/images/azure-databricks5940.jpg) &nbsp;
+
+![]() &nbsp;
+
+
+### Databases <img align="center" src="https://img.icons8.com/?size=100&id=VlNVFgikIzSt&format=png&color=000000">
+
+![MongoDB](https://img.icons8.com/?size=100&id=74402&format=png&color=000000) &nbsp;
+![MySQL](https://img.icons8.com/?size=100&id=f34HG4w9RjQk&format=png&color=000000) &nbsp;
+![PostgreSQL](https://img.icons8.com/?size=100&id=LwQEs9KnDgIo&format=png&color=000000) &nbsp;
+![]() &nbsp;
+![]() &nbsp;
+
+### Platform as a Service ( PaaS) <img align="center" src="https://img.icons8.com/?size=100&id=rgKfkyI9IzNB&format=png&color=000000">
+
+![Netlify](https://img.icons8.com/?size=100&id=YsPdguLCFOMH&format=png&color=000000) &nbsp;
+![Heroku](https://img.icons8.com/color/64/000000/heroku.png?style=for-the-badge&logo=heroku&logoColor=white) &nbsp;
+![]() &nbsp;
+
+
+### Version Control System 
+
+![Github](https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000) &nbsp;
+
+### IDE Code <img align="center" src="Editors https://img.icons8.com/?size=100&id=4yKfxfCfoRiK&format=png&color=000000">
+
+![VSCode](https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000) &nbsp;
+![Replit](https://img.icons8.com/?size=100&id=LQTr8UsXQ1jm&format=png&color=000000) &nbsp;
+![CodePen](https://img.icons8.com/?size=100&id=38382&format=png&color=000000) &nbsp;
+![Notepad++](https://img.icons8.com/?size=100&id=67169&format=png&color=000000) &nbsp;
