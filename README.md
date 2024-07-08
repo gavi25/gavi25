@@ -17,12 +17,12 @@
 </ul>
 
 ---
- ## Skills <img align ="center" src="https://img.icons8.com/2266EE/search">
+ ## Skills <img align ="center" src="https://img.icons8.com/2266EE/search" height="30px" width="40px">
 
-### [Languages]<img src="https://img.icons8.com/?size=100&id=T85lIO7RrTb7&format=png&color=000000">
+### [Languages]<img align="center src="https://img.icons8.com/?size=100&id=T85lIO7RrTb7&format=png&color=000000">
 
 ![Python](https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000) &nbsp;
-![SQL](https://img.icons8.com/?size=100&id=UFF3hmipmJ2V&format=png&color=000000) &nbsp;
+![SQL](https://img.icons8.com/?size=100&id=77694&format=png&color=000000) &nbsp;
 ![R](https://img.icons8.com/?size=100&id=qYOYmgF9E4iO&format=png&color=000000) &nbsp;
 ![C++](https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000) &nbsp;
 ![PHP](https://img.icons8.com/?size=100&id=fAMVO_fuoOuC&format=png&color=000000) &nbsp;
