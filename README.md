@@ -19,13 +19,13 @@
 ---
  ## Skills <img align ="center" src="https://img.icons8.com/2266EE/search">
 
-### [Languages]<img align=center src="https://img.icons8.com/?size=100&id=T85lIO7RrTb7&format=png&color=000000">
+### [Languages]<img src="https://img.icons8.com/?size=100&id=T85lIO7RrTb7&format=png&color=000000">
 
 ![Python](https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000) &nbsp;
 ![SQL](https://img.icons8.com/?size=100&id=UFF3hmipmJ2V&format=png&color=000000) &nbsp;
 ![R](https://img.icons8.com/?size=100&id=qYOYmgF9E4iO&format=png&color=000000) &nbsp;
 ![C++](https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000) &nbsp;
-
+![PHP](https://img.icons8.com/?size=100&id=fAMVO_fuoOuC&format=png&color=000000) &nbsp;
 
 ### Tools & Frameworks <img align="center" src="https://img.icons8.com/?size=100&id=43630&format=png&color=000000">
 
@@ -33,27 +33,41 @@
 ![Jupyter](https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000) &nbsp;
 ![Numpy](https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000) &nbsp;
 ![Pandas](https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000) &nbsp;
+![ML](https://img.icons8.com/?size=100&id=66365&format=png&color=000000) &nbsp;
+![]() &nbsp;
 ![Hadoop](https://img.icons8.com/?size=100&id=69132&format=png&color=000000) &nbsp;
 
-![]() &nbsp;
+
 
 
 ### Databases <img align="center" src="https://img.icons8.com/?size=100&id=VlNVFgikIzSt&format=png&color=000000">
 
 ![MongoDB](https://img.icons8.com/?size=100&id=74402&format=png&color=000000) &nbsp;
-![MySQL](https://img.icons8.com/?size=100&id=f34HG4w9RjQk&format=png&color=000000) &nbsp;
+![MySQL](https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000) &nbsp;
 ![PostgreSQL](https://img.icons8.com/?size=100&id=LwQEs9KnDgIo&format=png&color=000000) &nbsp;
+![Oracle](https://img.icons8.com/?size=100&id=39913&format=png&color=000000) &nbsp;
 ![]() &nbsp;
-![]() &nbsp;
+
+### Visualizations <img src="https://img.icons8.com/?size=100&id=P0qui62gKMc5&format=png&color=000000">
+
+![PowerBI](https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000) &nbsp;
+![Tableau](https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000) &nbsp;
+![DataStudio](https://img.icons8.com/?size=100&id=86E4YHZQawQZ&format=png&color=000000) &nbsp;
 
 ### Platform as a Service ( PaaS) <img align="center" src="https://img.icons8.com/?size=100&id=rgKfkyI9IzNB&format=png&color=000000">
 
 ![Netlify](https://img.icons8.com/?size=100&id=YsPdguLCFOMH&format=png&color=000000) &nbsp;
-![Heroku](https://img.icons8.com/color/64/000000/heroku.png?style=for-the-badge&logo=heroku&logoColor=white) &nbsp;
+![Heroku](https://img.icons8.com/?size=100&id=31085&format=png&color=000000) &nbsp;
+![Azure](https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000) &nbsp;
+
+### Front-End Development <img align="center" src="https://img.icons8.com/?size=100&id=Ac7AQHgh9jd0&format=png&color=000000">
+
+![HTML](https://img.icons8.com/?size=100&id=20909&format=png&color=000000) &nbsp;
+![CSS](https://img.icons8.com/?size=100&id=21278&format=png&color=000000) &nbsp;
+![]() &nbsp;
 ![]() &nbsp;
 
-
-### Version Control System 
+### Version Control System <img align="center" src="https://img.icons8.com/?size=100&id=p3mhXn3y1Zkf&format=png&color=000000">
 
 ![Github](https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000) &nbsp;
 
@@ -61,5 +75,5 @@
 
 ![VSCode](https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000) &nbsp;
 ![Replit](https://img.icons8.com/?size=100&id=LQTr8UsXQ1jm&format=png&color=000000) &nbsp;
-![CodePen](https://img.icons8.com/?size=100&id=38382&format=png&color=000000) &nbsp;
+![CodePen](https://img.icons8.com/?size=100&id=WoFJqBeTFKt2&format=png&color=000000) &nbsp;
 ![Notepad++](https://img.icons8.com/?size=100&id=67169&format=png&color=000000) &nbsp;
