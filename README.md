@@ -17,5 +17,6 @@
 </ul>
 
 ---
-<img align = "center" src="https://img.icons8.com/2266EE/search"/>
-### Languages 
+<img align = "center" src="https://img.icons8.com/2266EE/search">
+
+### Languages <img align=center src="https://icons8.com/icon/T85lIO7RrTb7/coding-language">
