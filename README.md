@@ -17,9 +17,9 @@
 </ul>
 
 ---
- ## Skills <img align ="center" src="https://img.icons8.com/2266EE/search" height="40px" width="50px">
+ ## Skills <img align ="center" src="https://img.icons8.com/2266EE/search" height="50px" width="50px">
 
-### Languages <img align="center src="https://img.icons8.com/?size=100&id=T85lIO7RrTb7&format=png&color=000000" height="40px" width="50px">
+### Languages <img align="center src="https://img.icons8.com/?size=100&id=T85lIO7RrTb7&format=png&color=000000" height="50px" width="50px">
 
 ![Python](https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000) &nbsp;
 ![SQL](https://img.icons8.com/?size=100&id=77694&format=png&color=000000) &nbsp;
@@ -27,7 +27,7 @@
 ![C++](https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000) &nbsp;
 ![PHP](https://img.icons8.com/?size=100&id=fAMVO_fuoOuC&format=png&color=000000) &nbsp;
 
-### Tools & Frameworks <img align="center" src="https://img.icons8.com/?size=100&id=43630&format=png&color=000000" height="40px" width="50px">
+### Tools & Frameworks <img align="center" src="https://img.icons8.com/?size=100&id=43630&format=png&color=000000" height="50px" width="50px">
 
 ![Colab](https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000) &nbsp;
 ![Jupyter](https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000) &nbsp;
@@ -40,7 +40,7 @@
 
 
 
-### Databases <img align="center" src="https://img.icons8.com/?size=100&id=VlNVFgikIzSt&format=png&color=000000" height="40px" width="50px">
+### Databases <img align="center" src="https://img.icons8.com/?size=100&id=VlNVFgikIzSt&format=png&color=000000" height="50px" width="50px">
 
 ![MongoDB](https://img.icons8.com/?size=100&id=74402&format=png&color=000000) &nbsp;
 ![MySQL](https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000) &nbsp;
@@ -48,30 +48,30 @@
 ![Oracle](https://img.icons8.com/?size=100&id=39913&format=png&color=000000) &nbsp;
 ![]() &nbsp;
 
-### Visualizations <img src="https://img.icons8.com/?size=100&id=P0qui62gKMc5&format=png&color=000000" height="40px" width="50px">
+### Visualizations <img src="https://img.icons8.com/?size=100&id=P0qui62gKMc5&format=png&color=000000" height="50px" width="50px">
 
 ![PowerBI](https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000) &nbsp;
 ![Tableau](https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000) &nbsp;
 ![DataStudio](https://img.icons8.com/?size=100&id=86E4YHZQawQZ&format=png&color=000000) &nbsp;
 
-### Platform as a Service ( PaaS) <img align="center" src="https://img.icons8.com/?size=100&id=rgKfkyI9IzNB&format=png&color=000000" height="40px" width="50px">
+### Platform as a Service ( PaaS) <img align="center" src="https://img.icons8.com/?size=100&id=rgKfkyI9IzNB&format=png&color=000000" height="50px" width="50px">
 
 ![Netlify](https://img.icons8.com/?size=100&id=YsPdguLCFOMH&format=png&color=000000) &nbsp;
 ![Heroku](https://img.icons8.com/?size=100&id=31085&format=png&color=000000) &nbsp;
 ![Azure](https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000) &nbsp;
 
-### Front-End Development <img align="center" src="https://img.icons8.com/?size=100&id=Ac7AQHgh9jd0&format=png&color=000000" height="40px" width="50px">
+### Front-End Development <img align="center" src="https://img.icons8.com/?size=100&id=Ac7AQHgh9jd0&format=png&color=000000" height="50px" width="50px">
 
 ![HTML](https://img.icons8.com/?size=100&id=20909&format=png&color=000000) &nbsp;
 ![CSS](https://img.icons8.com/?size=100&id=21278&format=png&color=000000) &nbsp;
 ![]() &nbsp;
 ![]() &nbsp;
 
-### Version Control System <img align="center" src="https://img.icons8.com/?size=100&id=p3mhXn3y1Zkf&format=png&color=000000" height="40px" width="50px">
+### Version Control System <img align="center" src="https://img.icons8.com/?size=100&id=p3mhXn3y1Zkf&format=png&color=000000" height="50px" width="50px">
 
 ![Github](https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=000000) &nbsp;
 
-### IDE Code <img align="center" src="Editors https://img.icons8.com/?size=100&id=4yKfxfCfoRiK&format=png&color=000000" height="40px" width="50px">
+### IDE Code <img align="center" src="Editors https://img.icons8.com/?size=100&id=4yKfxfCfoRiK&format=png&color=000000" height="50px" width="50px">
 
 ![VSCode](https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000) &nbsp;
 ![Replit](https://img.icons8.com/?size=100&id=LQTr8UsXQ1jm&format=png&color=000000) &nbsp;
