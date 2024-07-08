@@ -17,9 +17,9 @@
 </ul>
 
 ---
- ## Skills <img align ="center" src="https://img.icons8.com/2266EE/search" height="30px" width="40px">
+ ## Skills <img align ="center" src="https://img.icons8.com/2266EE/search" height="40px" width="45px">
 
-### [Languages]<img align="center src="https://img.icons8.com/?size=100&id=T85lIO7RrTb7&format=png&color=000000">
+### [Languages]<img align="center src="https://img.icons8.com/?size=100&id=T85lIO7RrTb7&format=png&color=000000" height="40px">
 
 ![Python](https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000) &nbsp;
 ![SQL](https://img.icons8.com/?size=100&id=77694&format=png&color=000000) &nbsp;
