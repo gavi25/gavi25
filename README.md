@@ -23,7 +23,13 @@
 
 ![Python](https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000) &nbsp;
 ![SQL](https://img.icons8.com/?size=100&id=ywH6EJgZ7sm5&format=png&color=000000) &nbsp;
-![MongoDB](https://img.icons8.com/?size=100&id=74402&format=png&color=000000) &nbsp;
-![Hadoop](https://img.icons8.com/?size=100&id=69132&format=png&color=000000) &nbsp;
 ![R](https://img.icons8.com/?size=100&id=qYOYmgF9E4iO&format=png&color=000000) &nbsp;
 ![C++](https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000) &nbsp;
+
+
+### Tools & Frameworks <img align="center" src="https://img.icons8.com/?size=100&id=43630&format=png&color=000000">
+
+![MongoDB](https://img.icons8.com/?size=100&id=74402&format=png&color=000000) &nbsp;
+![Hadoop](https://img.icons8.com/?size=100&id=69132&format=png&color=000000) &nbsp;
+![Spark](https://th.bing.com/th/id/OIP.AIGS5qwtMTy80gBvrTSSoQHaHa?w=184&h=184&c=7&r=0&o=5&pid=1.7) &nbsp;
+![Azure Databricks](https://logowik.com/content/uploads/images/azure-databricks5940.jpg) &nbsp;
