@@ -19,10 +19,10 @@
 ---
  ## Skills <img align ="center" src="https://img.icons8.com/2266EE/search" height="50px" width="50px">
 
-### Languages <img align="center" src="https://img.icons8.com/?size=100&id=6zcZpMhq6W6b&format=png&color=000000" height="50px" width="50px">
+### Languages <img align="center" src="https://img.icons8.com/?size=100&id=l0UsZRTvcGel&format=png&color=000000" height="50px" width="50px">
 
 ![Python](https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000) &nbsp;
-![SQL](https://img.icons8.com/?size=100&id=77694&format=png&color=000000) &nbsp;
+![SQL](https://img.icons8.com/?size=100&id=31478&format=png&color=000000) &nbsp;
 ![R](https://img.icons8.com/?size=100&id=qYOYmgF9E4iO&format=png&color=000000) &nbsp;
 ![C++](https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000) &nbsp;
 ![PHP](https://img.icons8.com/?size=100&id=fAMVO_fuoOuC&format=png&color=000000) &nbsp;
@@ -48,7 +48,7 @@
 ![Oracle](https://img.icons8.com/?size=100&id=39913&format=png&color=000000) &nbsp;
 ![]() &nbsp;
 
-### Visualizations <img align="center" src="https://img.icons8.com/?size=100&id=P0qui62gKMc5&format=png&color=000000" height="50px" width="50px">
+### Visualizations <img align="center" src="https://img.icons8.com/?size=100&id=dN0PAOohfke8&format=png&color=000000" height="50px" width="50px">
 
 ![PowerBI](https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000) &nbsp;
 ![Tableau](https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000) &nbsp;
