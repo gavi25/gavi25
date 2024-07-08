@@ -17,8 +17,13 @@
 </ul>
 
 ---
- ## Skills <img align = "center" src="https://img.icons8.com/2266EE/search">
+ ## Skills <img align ="center" src="https://img.icons8.com/2266EE/search">
 
-### Languages <img align=center src="https://img.icons8.com/?size=100&id=T85lIO7RrTb7&format=png&color=000000">
+### [Languages]<img align=center src="https://img.icons8.com/?size=100&id=T85lIO7RrTb7&format=png&color=000000">
 
 ![Python](https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000) &nbsp;
+![SQL](https://img.icons8.com/?size=100&id=ywH6EJgZ7sm5&format=png&color=000000) &nbsp;
+![MongoDB](https://img.icons8.com/?size=100&id=74402&format=png&color=000000) &nbsp;
+![Hadoop](https://img.icons8.com/?size=100&id=69132&format=png&color=000000) &nbsp;
+![R](https://img.icons8.com/?size=100&id=qYOYmgF9E4iO&format=png&color=000000) &nbsp;
+![C++](https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000) &nbsp;
