@@ -21,4 +21,4 @@
 
 ### Languages <img align=center src="https://img.icons8.com/?size=100&id=T85lIO7RrTb7&format=png&color=000000">
 
-Python (https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000) &nbsp;
+[Python](https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000) &nbsp;
