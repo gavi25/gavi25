@@ -1,4 +1,5 @@
-# HELLO EVERYONE !!! , I'm Gavin Aranha <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc_eDcFilZAtxEzj396BoxI1rk4gc3HeOHj2cWjuIGvQ&s" width="40px" /> <img align="center" />
+# HELLO EVERYONE !!! , I'm Gavin Aranha <img align="center" src="https://img.icons8.com/?size=100&id=t9MXyCBFIJCB&format=png&color=000000" height="50px" width="50px">
+<!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc_eDcFilZAtxEzj396BoxI1rk4gc3HeOHj2cWjuIGvQ&s" width="40px" /> <img align="center" /> -->
 
 ##  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaCkD9MkhFvX81GtrcXxumiMp4zcGZaDoigA&s" width="40 px" align="center"> Masters in Big Data Analysis from St. Xavier's College <img src="https://xaviers.ac/____impro/1/onewebmedia/Crest.png?etag=%229b3e-627c9008%22&sourceContentType=image%2Fpng&quality=85" width="35px" align="center" />  
 ## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaCkD9MkhFvX81GtrcXxumiMp4zcGZaDoigA&s" width="40 px" align="center">  BSc in Information Technology from St. Xavier's College <img src="https://xaviers.ac/____impro/1/onewebmedia/Crest.png?etag=%229b3e-627c9008%22&sourceContentType=image%2Fpng&quality=85" width="35px" align="center" />
