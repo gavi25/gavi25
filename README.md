@@ -54,6 +54,8 @@
 ![PowerBI](https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000) &nbsp;
 ![Tableau](https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000) &nbsp;
 ![DataStudio](https://img.icons8.com/?size=100&id=86E4YHZQawQZ&format=png&color=000000) &nbsp;
+![GoogleAnalytics](![image](https://github.com/user-attachments/assets/1407ac37-bf4c-4493-ab20-019adc095d86)) &nbsp;
+![]() &nbsp;
 
 ### Platform as a Service (PaaS) <img align="center" src="https://img.icons8.com/?size=100&id=rgKfkyI9IzNB&format=png&color=000000" height="50px" width="50px">
 
