@@ -67,6 +67,8 @@
 
 ![HTML](https://img.icons8.com/?size=100&id=20909&format=png&color=000000) &nbsp;
 ![CSS](https://img.icons8.com/?size=100&id=21278&format=png&color=000000) &nbsp;
+![Javascript](https://icons8.com/icon/tGvHBPJaKqEd/javascript) &nbsp;
+![React](https://icons8.com/icon/wPohyHO_qO1a/react) &nbsp;
 ![]() &nbsp;
 ![]() &nbsp;
 
