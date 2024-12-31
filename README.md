@@ -57,7 +57,7 @@
 ![GoogleAnalytics](https://img.icons8.com/?size=100&id=fcKpGwAbxxfP&format=png&color=000000) &nbsp;
 ![]() &nbsp;
 
-### ERP <img align="center" src="https://img.icons8.com/?size=100&id=MraL5gfBljFp&format=png&color=000000" height="50px" width="50px">
+### ERP <img align="center" src="https://img.icons8.com/?size=100&id=hvCi0tJmseUV&format=png&color=000000" height="50px" width="50px">
 ![SAP](https://img.icons8.com/?size=100&id=38192&format=png&color=000000) &nbsp;
 ![]() &nbsp;
 
