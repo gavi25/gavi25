@@ -57,6 +57,11 @@
 ![GoogleAnalytics](https://img.icons8.com/?size=100&id=fcKpGwAbxxfP&format=png&color=000000) &nbsp;
 ![]() &nbsp;
 
+### ERP <img align="center" src="https://img.icons8.com/?size=100&id=MraL5gfBljFp&format=png&color=000000" height="50px" width="50px">
+![SAP](https://img.icons8.com/?size=100&id=38192&format=png&color=000000) &nbsp;
+![]() &nbsp;
+
+
 ### Platform as a Service (PaaS) <img align="center" src="https://img.icons8.com/?size=100&id=rgKfkyI9IzNB&format=png&color=000000" height="50px" width="50px">
 
 ![Netlify](https://img.icons8.com/?size=100&id=YsPdguLCFOMH&format=png&color=000000) &nbsp;
@@ -70,7 +75,7 @@
 ![Javascript](https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000) &nbsp;
 ![React](https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000) &nbsp;
 ![]() &nbsp;
-![]() &nbsp;
+
 
 ### Version Control System <img align="center" src="https://img.icons8.com/?size=100&id=p3mhXn3y1Zkf&format=png&color=000000" height="50px" width="50px">
 
