@@ -55,6 +55,8 @@
 ![Tableau](https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000) &nbsp;
 ![DataStudio](https://img.icons8.com/?size=100&id=86E4YHZQawQZ&format=png&color=000000) &nbsp;
 ![GoogleAnalytics](https://img.icons8.com/?size=100&id=fcKpGwAbxxfP&format=png&color=000000) &nbsp;
+![Grafana](https://img.icons8.com/?size=100&id=bMkmDxPRZAld&format=png&color=000000) &nbsp;
+![React](https://img.icons8.com/?size=100&id=t4YbEbA834uH&format=png&color=000000) &nbsp;
 ![]() &nbsp;
 
 ### ERP <img align="center" src="https://img.icons8.com/?size=100&id=hvCi0tJmseUV&format=png&color=000000" height="50px" width="50px">
