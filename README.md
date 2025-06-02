@@ -35,6 +35,8 @@
 ![Numpy](https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000) &nbsp;
 ![Pandas](https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000) &nbsp;
 ![ML](https://img.icons8.com/?size=100&id=66365&format=png&color=000000) &nbsp;
+![Apache Spark](https://img.icons8.com/?size=100&id=0cRqPqlItA0E&format=png&color=000000) &nbsp;
+![]() &nbsp;
 ![]() &nbsp;
 ![Hadoop](https://img.icons8.com/?size=100&id=69132&format=png&color=000000) &nbsp;
 
